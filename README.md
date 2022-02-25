@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React 環境設置 &lpar;CDN/CRA&rpar;](https://medium.com/@askiebaby/react-%E7%92%B0%E5%A2%83%E8%A8%AD%E7%BD%AE-cdn-cra-28c2654380b6?source=rss-b45968f504b1------2)
+- [擊破前端面試的困難（繁中翻譯）](https://medium.com/@askiebaby/%E6%93%8A%E7%A0%B4%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%A9%A6%E7%9A%84%E5%9B%B0%E9%9B%A3-%E7%B9%81%E4%B8%AD%E7%BF%BB%E8%AD%AF-5054500e9415?source=rss-b45968f504b1------2)
 <!-- BLOG-POST-LIST:END -->
